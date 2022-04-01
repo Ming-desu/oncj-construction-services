@@ -1,0 +1,24 @@
+D:\ONCJ Construction Services\ONCJ Construction Services\bin\Debug\ONCJ Construction Services.exe.config
+D:\ONCJ Construction Services\ONCJ Construction Services\bin\Debug\ONCJ Construction Services.exe
+D:\ONCJ Construction Services\ONCJ Construction Services\bin\Debug\ONCJ Construction Services.pdb
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ Construction Services.csprojResolveAssemblyReference.cache
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Properties.Resources.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ Construction Services.csproj.GenerateResource.Cache
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ Construction Services.exe
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ Construction Services.pdb
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Main.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Register.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Login.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.MainApp.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Employees.Index.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Employees.Create.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\bin\Debug\Resources\icons8-picture-50.png
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Employees.Edit.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Projects.Index.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Projects.Create.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Projects.AddMember.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Projects.EditMember.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ_Construction_Services.Views.Projects.Edit.resources
+D:\ONCJ Construction Services\ONCJ Construction Services\obj\Debug\ONCJ Construction Services.csproj.ResolveComReference.cache
+D:\ONCJ Construction Services\ONCJ Construction Services\bin\Debug\Microsoft.CSharp.dll
+D:\ONCJ Construction Services\ONCJ Construction Services\bin\Debug\System.dll

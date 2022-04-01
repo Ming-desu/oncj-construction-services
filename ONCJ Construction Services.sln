@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ONCJ Construction Services", "ONCJ Construction Services\ONCJ Construction Services.csproj", "{00067665-5AC0-4FB4-B6AC-C7B68A2B4AE9}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "AI Setup Project1", "AI Setup Project1\AI Setup Project1.aiproj", "{D834DCA6-1C39-4F86-BCC5-E31DE9FA0C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00067665-5AC0-4FB4-B6AC-C7B68A2B4AE9}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{00067665-5AC0-4FB4-B6AC-C7B68A2B4AE9}.All|Any CPU.Build.0 = Release|Any CPU
+		{00067665-5AC0-4FB4-B6AC-C7B68A2B4AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00067665-5AC0-4FB4-B6AC-C7B68A2B4AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00067665-5AC0-4FB4-B6AC-C7B68A2B4AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00067665-5AC0-4FB4-B6AC-C7B68A2B4AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D834DCA6-1C39-4F86-BCC5-E31DE9FA0C40}.All|Any CPU.ActiveCfg = DefaultBuild
+		{D834DCA6-1C39-4F86-BCC5-E31DE9FA0C40}.All|Any CPU.Build.0 = DefaultBuild
+		{D834DCA6-1C39-4F86-BCC5-E31DE9FA0C40}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{D834DCA6-1C39-4F86-BCC5-E31DE9FA0C40}.Debug|Any CPU.Build.0 = DefaultBuild
+		{D834DCA6-1C39-4F86-BCC5-E31DE9FA0C40}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{D834DCA6-1C39-4F86-BCC5-E31DE9FA0C40}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
